@@ -2,7 +2,3 @@ interface:
   display_name: "I Am Copywriter"
   short_description: "Build a strategic brand narrative through guided discovery"
   default_prompt: "Use $ai-brand-storytelling-en to interview me and build a complete brand narrative system."
-interface:
-  display_name: "I Am Copywriter"
-  short_description: "Build a strategic brand narrative through guided discovery"
-  default_prompt: "Use $wo-shi-wenan-en to interview me and build a complete brand narrative system."
